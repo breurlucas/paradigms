@@ -1,0 +1,5 @@
+Por padrão o software apenas lê o arquivo texto. Porém, pode ter a opção –l
+que só exibe a linha e ou –w que só exibe a quantidade de palavras.
+
+Por padrão o software apenas lê o arquivo texto. Porém, pode ter a opção –l
+que só exibe a linha e ou –w que só exibe a quantidade de palavras
